@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpaBuddyIdeaProjectConfig">
+    <option name="defaultUnitInitialized" value="true" />
+    <option name="reverseEngineeringLastDbConnectionId" value="36efb07d-9f57-465f-9597-9142a45503b6" />
+    <option name="reLastEntityCreationPackage" value="src/main/java/com/clinicawebservice/domain/userInfo" />
+    <reUseDbSnapshotConnections>
+      <dbConnection id="36efb07d-9f57-465f-9597-9142a45503b6" />
+    </reUseDbSnapshotConnections>
+    <option name="reIgnoreSlowDbConnections">
+      <ignoreDs id="36efb07d-9f57-465f-9597-9142a45503b6" />
+    </option>
+  </component>
+</project>
